@@ -1,0 +1,5 @@
+  File "/home/ubuntu/margin/git_auto_push.py", line 7
+    return process.stdout
+IndentationError: unexpected indent
+An error occurred while pushing changes: fatal: not a git repository (or any of the parent directories): .git
+

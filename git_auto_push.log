@@ -31,3 +31,11 @@ Changes pushed successfully on 2023-11-19.
 Changes pushed successfully on 2023-11-20.
 Changes pushed successfully on 2023-11-21.
 Changes pushed successfully on 2023-11-22.
+An error occurred while pushing changes: To github.com:sk18sept/margin.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'github.com:sk18sept/margin.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+

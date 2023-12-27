@@ -1,0 +1,5 @@
+# Ignore everything except the file you want to commit
+# Put '*' here if you want to ignore everything except the files mentioned below...
+# Then, use the negation pattern to exclude the file from being ignored
+!margin_algo_shoonya.csv
+!git_auto_push.log
